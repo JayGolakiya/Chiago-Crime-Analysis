@@ -16,16 +16,16 @@ Pig - 0.16.0 <br>
 | MapReduce Components | Job Tracker <br> Task Tracker | Task Tracker | Task Tracker | Task Tracker |
 | Network Address | 192.168.56.11 | 192.168.56.10 | 192.168.56.12 | 192.168.56.13 |
 ## Analysis 
-###### 1. Timeseries Analysis 
+###### 1. Timeseries Analysis <a href= "https://github.com/JayGolakiya/Chiago-Crime-Analysis/tree/master/Timeseries"/>
 -	Total number of crime happened in each past year
 - Total number of crime per month
 -	Total Number of crime per day
 - Total Number of crime per hour
 -	Number of crime in each year of particular crime type
-###### 2. Statistical Analysis 
+###### 2. Statistical Analysis <a href= "https://github.com/JayGolakiya/Chiago-Crime-Analysis/tree/master/Statistical"/>
 - Description of location where the crime was happened
 - Different Crime Types and criminal arrested or not
-###### 3. Geospatial Analysis 
+###### 3. Geospatial Analysis <a href= "https://github.com/JayGolakiya/Chiago-Crime-Analysis/tree/master/Geospatial"/>
 - District location and number of arrest in each district
 ## Data Visualizatoin
 Till now we had calculated different kind of analysis. This analysis is in numeric format. It is difficult to visualize text data and make decision at a glance. For easy visualization and easy understanding by any non-technical and any person, we plotted analyzed data on different type of graphs. These graphs like Bar char, Pie chart, Line chart, etc. Based on data different kind of visualizations are prepared. For implementation of that functionalities we had used Django frame work and chart.js graph library. <br>
