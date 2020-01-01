@@ -20,6 +20,7 @@ Pig - 0.16.0 <br>
 -	Total number of crime happened in each past year
 - Total number of crime per month
 -	Total Number of crime per day
+- Total Number of crime per hour
 -	Number of crime in each year of particular crime type
 ###### 2. Statistical Analysis 
 - Description of location where the crime was happened
